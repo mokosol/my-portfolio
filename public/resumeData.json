@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name":"Mo Kosol",
+    "occupation":"Full-Stack Junior Developer",
+    "description":" Job Hunting ",
+    "employer":"Shop Your Own Mortgage",
+    "jobDescription":"full stack software engineer across the range of our products, as well being our lead security specialist",
+    "image":"mo-2.jpg",
+    "bio":"I'm a Fullstack Developer specialized in building websites and web apps with a big interest both front-end  and back-end.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "mohamedkosol@gmail.com",
+    "phone": "(612) 283-4423",
+    "address":{
+      "street":"Old Cedar Ave S",
+      "city":"Minneapoliis",
+      "state":"Minnesota",
+      "zip": "55425"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/tim.baker.906",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mohamed-ali-a794a9182/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/qoslaye23/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"stack-overflow",
+        "url":"https://stackoverflow.com/users/11273637/mohamed-mohamed",
+        "className":"fa fa-stack-overflow"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/mokosol",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education":[
+      {
+        "school":"University of Minnesota Coding Bootcamp",
+        "degree":"FullStack Web Development Certificate",
+        "graduated":" October 2019",
+        "description":" I'm a graduate of the University of Minnesota Full Stack Web Development Boot Camp  covering skills including HTML5 CSS Bootstrap JavaScript jQuery Node.js MYSQL MongoDB reactJs Express Git Heroku  and more."
+      },
+      {
+        "school":"VOLUNTEER OF AMERICA HIGH SCHOOL MINNEAPOLIS, MN",
+        "degree":"High School",
+        "graduated":"May 2011",
+        "description":"High School Diploma."
+      }
+    ],
+    "work":[
+      {
+        "company":"TAAJ SERVICES LLC, MINNEAPOLIS, MN",
+        "title": "Cashier/Teller",
+        "years": "August 2017 - Present",
+        "description": "."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "description":".",
+        "image":"HTML.jpg"
+      },
+      {
+        "name":"CSS",
+        "description":".",
+        "image":"CSS.png"
+      },
+     
+      {
+        "name":"javaScript",
+        "description":".",
+        "image":"js.jpeg"
+      },
+      {
+        "name":"React Js",
+        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "image":"react.jpg"
+      },
+      
+      {
+        "name":"mySql",
+        "description":"",
+        "image":"mSql.png"
+      },
+      
+
+      {
+        "name":"Node JS",
+        "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "image":"node.jpg"
+      },
+      {
+        "name":"MongoDB",
+        "description":"I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image":"mongo.jpg"
+      },
+      {
+        "name":"Git",
+        "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image":"git.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Clicky Game",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"clicky.JPG",
+        "url":"https://clickgame19.herokuapp.com/"
+      },
+      {
+        "title":"Burger Restaurent! ",
+        "category":"",
+        "image":"burger.jpg",
+        "url":"https://infinite-escarpment-33743.herokuapp.com/index"
+      }
+    ]
+  }
+ 
+}
