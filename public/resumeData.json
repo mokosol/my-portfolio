@@ -2,9 +2,9 @@
   "main": {
     "name":"Mo Kosol",
     "occupation":"Full-Stack Junior Developer",
-    "description":" Job Hunting ",
-    "employer":"Shop Your Own Mortgage",
-    "jobDescription":"full stack software engineer across the range of our products, as well being our lead security specialist",
+    "description":" Software Developer ",
+    "employer":"Taaj Services",
+    "jobDescription":"",
     "image":"mo-2.jpg",
     "bio":"I'm a Fullstack Developer specialized in building websites and web apps with a big interest both front-end  and back-end.",
     "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
@@ -17,11 +17,11 @@
       "zip": "55425"
     },
     "website": "",
-    "resumedownload":"",
+    "resumedownload":"https://dochub.com/bello114/9Y2pgbZ/resume-9-pdf",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/",
         "className":"fa fa-facebook"
       },
       {
@@ -65,26 +65,26 @@
     "work":[
       {
         "company":"TAAJ SERVICES LLC, MINNEAPOLIS, MN",
-        "title": "Cashier/Teller",
+        "title": "Web Developer",
         "years": "August 2017 - Present",
-        "description": "."
+        "description": "Full stack web development responsible for end-to-end web app development and creative engineering Created a customer web form for TAAJ services clientele servicesBuilt an e-commerce web-app for TAAJ Services LLC."
       }
     ],
     "skills":[
       {
         "name":"HTML",
-        "description":".",
+        "description":"HTML is the standard markup language for Web pages With HTML you can create your own Website HTML is easy to learn - You will enjoy it!",
         "image":"HTML.jpg"
       },
       {
         "name":"CSS",
-        "description":".",
+        "description":"CSS is a language that describes the style of an HTML document CSS describes how HTML elements should be displayed.This tutorial will teach you CSS from basic to advanced.",
         "image":"CSS.png"
       },
      
       {
         "name":"javaScript",
-        "description":".",
+        "description":"JavaScript is the programming language of HTML and the Web JavaScript is easy to learn.This tutorial will teach you JavaScript from basic to advanced.",
         "image":"js.jpeg"
       },
       {
@@ -95,14 +95,14 @@
       
       {
         "name":"mySql",
-        "description":"",
+        "description":"SQL is a standard language for storing, manipulating and retrieving data in databases.",
         "image":"mSql.png"
       },
       
 
       {
         "name":"Node JS",
-        "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "description":"Node JS is my server-side scripting language of choice.",
         "image":"node.jpg"
       },
       {
@@ -121,15 +121,51 @@
     "projects": [
       {
         "title":"Clicky Game",
-        "category":"My Travel Blog for my post-university travels",
+        "category":"This app is a memory game with React. The idea of the game is to click on the cards without clicking on the same one twice until you click all 12 characters.",
         "image":"clicky.JPG",
         "url":"https://clickgame19.herokuapp.com/"
       },
       {
+        "title":"Cart",
+        "category":"This app is simple react cart app",
+        "image":"cart.png",
+        "url":"https://clickgame19.herokuapp.com/"
+      },
+      {
         "title":"Burger Restaurent! ",
-        "category":"",
+        "category":"Overview A Node, Express, Handlebars, and MySQL burger app that lets users input the names of burgers they'd like to eat... and then devour them! ",
         "image":"burger.jpg",
         "url":"https://infinite-escarpment-33743.herokuapp.com/index"
+      },
+      {
+        "title":"Drink Up ",
+        "category":"",
+        "image":"DRINKUp.JPG",
+        "url":"https://green-sea-turtle-group-project.herokuapp.com/"
+      },
+      {
+        "title":"Food Data Central",
+        "category":"",
+        "image":"fooddata.jpg",
+        "url":"https://allisonmchamplin.github.io/ProjectOne/"
+      },
+      {
+        "title":"Crytal Game",
+        "category":"",
+        "image":"crystal.jpg",
+        "url":"https://mokosol.github.io/unit-4-game/"
+      },
+      {
+        "title":"Train Time",
+        "category":"",
+        "image":"traintime.jpg",
+        "url":"https://mokosol.github.io/TrainScheduler/"
+      },
+      {
+        "title":"Friend Finder!",
+        "category":"FriendFinder A fullstack match making application using the Express package for Node.js! This app uses Express to serve 2 static HTML files and 2 API routes to get and post data.",
+        "image":"friend.jpg",
+        "url":"https://stark-basin-65916.herokuapp.com/"
       }
     ]
   }
